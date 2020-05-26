@@ -12,4 +12,5 @@ public abstract class DoorState {
 	void changeState(Door d, DoorState s) {
 		d.changeState(s);
 	}
+	
 }
