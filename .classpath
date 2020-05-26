@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="LAB07"/>
 	<classpathentry kind="src" path="LAB08"/>
 	<classpathentry kind="src" path="LAB09"/>
+	<classpathentry kind="src" path="LAB10"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
