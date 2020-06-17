@@ -11,6 +11,7 @@
 	<classpathentry kind="src" path="LAB10"/>
 	<classpathentry kind="src" path="LAB11"/>
 	<classpathentry kind="src" path="LAB12"/>
+	<classpathentry kind="src" path="Project"/>
 	<classpathentry kind="src" path="/Roulette"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
